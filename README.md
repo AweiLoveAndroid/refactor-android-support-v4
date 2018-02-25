@@ -8,4 +8,4 @@
 
 # 使用示意图如下：
 
-![](https://github.com/AweiLoveAndroid/refactor-android-support-v4/pic/demo.png)
+![](https://github.com/AweiLoveAndroid/refactor-android-support-v4/tree/master/pic/demo.png)
